@@ -1,3 +1,3 @@
-import '../styles/index.scss';
+import './styles.sass';
 
-console.log('webpack starterkit');
+alert('hello...');
